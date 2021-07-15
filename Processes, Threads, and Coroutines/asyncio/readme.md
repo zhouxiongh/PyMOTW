@@ -8,7 +8,7 @@
   - [Scheduling a Callback “Soon”](https://pymotw.com/3/asyncio/scheduling.html#scheduling-a-callback-soon)
   - [Scheduling a Callback with a Delay](https://pymotw.com/3/asyncio/scheduling.html#scheduling-a-callback-with-a-delay)
   - [Scheduling a Callback for a Specific Time](https://pymotw.com/3/asyncio/scheduling.html#scheduling-a-callback-for-a-specific-time)
-- [ ] Producing Results Asynchronously
+- [x] Producing Results Asynchronously
   - [Waiting for a Future](https://pymotw.com/3/asyncio/futures.html#waiting-for-a-future)
   - [Future Callbacks](https://pymotw.com/3/asyncio/futures.html#future-callbacks)
 - [ ] Executing Tasks Concurrently
